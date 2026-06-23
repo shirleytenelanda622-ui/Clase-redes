@@ -1,0 +1,24 @@
+Cableado
+Su duración mínima de uso es de 10 años 
+Un sistema de cableado estructurado es una única red de cableado dentro de un edificio o grupo de edificios
+SCE conecta dispositivos de comunicación de vos, datos y video.
+El cableado es altamente flexible y escalable. Para que se pueda ir actualizando es un ancho de banda sin tener que precablear.
+El cableado es definido por la topología: estrella
+ANSI/TIA/EIA-568.1-E centro de edificios comerciales
+ANSI/TIA/EIA-569-D
+ANSI/TIA/EIA-570-C
+ANSI/TIA/EIA-606-B
+ANSI/TIA/EIA-607-B-1
+ANSI/TIA-942-A
+ANSI/TIA-1179
+
+ELEMENTOS CLAVES DEL 568-C.1
+Área de trabajo
+cableado horizontal
+cableado vertical
+cuarto de telecomunicaciones (recoger todo el cableado horizontal)
+sala de equipos
+infraestructura de entrada/Acometida (lugar donde se instala)
+
+Sistema vertical o backbone recoge todo el trafico en una planta vertical y también contiene un backup
+No se permiten empalmes a lo largo del sistema horizontal
