@@ -1,0 +1,58 @@
+Cableado estructurado 30/6/2026
+
+Área de trabajo
+cableado horizontal (90 metros y de canal a canal son 100 metros. Si esta en un edificio todo lo que este en piso es el cableado horizontal que debe diseñar en la topología estrella)
+cableado vertical (dentro de un edificio para unir cables horizontales en forma vertical usando un backbone de respaldo)
+cuarto de telecomunicaciones (recoger todo el cableado horizontal que baja por el cableado vertical)
+
+sala de equipos
+infraestructura de entrada/Acometida (lugar donde se instala)
+
+Normas en el área de trabajo es el patch Cord y el faceplate
+
+Cable directo cuando dos cables tiene las mismas normas y un cable cruzado es cuanto tienen diferentes normas si un lado tiene color verde y el otro naranja es cable cruzado y si los dos tienen cable del mismo color como verde es el cable directo
+
+Fibra con chaqueta negra sirven para el aria en la parte publica 
+
+Cables aceptados en el cableado horizontal
+
+ Cable de Par Trenzado sin Blindaje (UTP) de 4 pares de 100 Ohmios (Es mas utilizado gracias a que es mas económico)
+ Cable de Par Trenzado con Blindaje (ScTP) de 4 pares de 100 Ohmios.
+ Cable de Fibra Óptica multimodo de 62.5/125 o 50/125 µm de dos fibras.
+ Cable de Par Trenzado con blindaje (STP) de 2 pares de 150 ohmios (reconocido pero
+no recomendado)
+ La que fibra que mas utiliza es la multimodo
+
+Sistema de Cableado UTP 100 OHMIOS.- El cable debe terminar en un Jack de ocho posiciones. Encontrando los requerimientos de durabilidad asignando Pin/Par T568A T568B
+
+Calcular la Longitud promedio del cable
+u Determinar la ruta del cable
+u Establecer el Área a servir por cada cuarto
+u Medir la distancia al punto más lejano
+u Medir la distancia al punto más cercano
+u Sumar y dividir entre dos
+u Añadir un 10% de holgura
+u Añadir holgura de terminación (2.5 m)
+
+A partir de la longitud ajustada promedio del cable
+§ Calcular número de corridas por caja o rollo
+§ 305/distancia promedio = D
+§ Aproximar por debajo
+§ Calcular la cantidad de bobinas o rollos de
+cable
+§ Número de salidas/D = Cajas o Rollos
+§ Aproximar por arriba
+
+
+
+
+
+
+
+
+Cuestionario
+Conexión entre nodos adyacentes lo hace la capa de enlace que resuelve las conexiones. Para realizar una condición no es necesario saberse la mag addres pero si la dirección IP
+Redes clases hay 128 y de las que se pueden utilizar son 126
+Clases A publicas hay 125 y privadas hay 
+
+
