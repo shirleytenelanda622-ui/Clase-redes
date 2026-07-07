@@ -1,5 +1,6 @@
 Cableado estructurado 30/6/2026
 
+El cableado el rollo mide 305 metros
 Área de trabajo
 cableado horizontal (90 metros y de canal a canal son 100 metros. Si esta en un edificio todo lo que este en piso es el cableado horizontal que debe diseñar en la topología estrella)
 cableado vertical (dentro de un edificio para unir cables horizontales en forma vertical usando un backbone de respaldo)
