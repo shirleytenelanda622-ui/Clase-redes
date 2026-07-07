@@ -49,6 +49,9 @@ u De 801 m2 hasta 1000 m2, 3m x 3.4m
 u Un Cuarto de Telecomunicaciones debe sercomo mínimo de 3m x 2.1m
 u Un cuarto por cada 200 estaciones
 
+<img width="851" height="360" alt="Captura de pantalla 2026-07-07 115201" src="https://github.com/user-attachments/assets/b202e63b-9968-4a77-8f1b-6a7df65df932" />
+
+
 
 
 
