@@ -1,0 +1,42 @@
+Rango valido sexta red privada calase b
+172.16.0.0 172.31.0.0
+
+Para ver las configuraciones en las practicas
+show running-config 
+
+en el cableado se pueden usar cables utp y si hya as distancia se 
+usa fibra
+
+la normas 569 como se conecta, las rutas que toman 
+Norma de administración
+
+sala de equipos, cuartos de telecomunicaciones
+
+Normas TIA/EIA 307B.1 discute el esquema básico y los componentes 
+necesarios para proporcionar protección eléctrica a los usuarios e 
+infraestructura. Para que pueda tener un buen soporte con uso de 
+un cable grueso para asegurar y evitar problemas 
+
+TBB: Telecommunications bonding backbone- Es un
+conductor de cobre usado para conectar la barra principal
+de tierra de telecomunicaciones (TMBG) con las barras de
+tierra de los armarios de telecomunicaciones y salas de
+equipos (TGB).
+
+TGB: Telecommunications Grounding Busbar
+Es la barra de tierra ubicada en el armario de
+telecomunicaciones o en la sala de equipos Sirve de
+punto central de conexión de tierra de los equipos de la
+sala
+
+TMBG: Telecommunications main ground Busbar
+Barra principal de tierra, ubicada en las "facilidades de
+entrada“
+Es la que se conecta a la tierra del edificio ,actúa como
+punto central de conexión de los TGB
+Típicamente hay un solo TMBG por edificio.
+Debe ser una barra de cobre, de 6 mm de espesor y
+100mm de ancho mínimos.
+El largo puede variar, de acuerdo ala cantidad de cables que
+deban conectarse a ella.
+
