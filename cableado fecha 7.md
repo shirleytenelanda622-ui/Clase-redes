@@ -51,6 +51,7 @@ u Un cuarto por cada 200 estaciones
 
 <img width="851" height="360" alt="Captura de pantalla 2026-07-07 115201" src="https://github.com/user-attachments/assets/b202e63b-9968-4a77-8f1b-6a7df65df932" />
 
+https://www.ibm.com/docs/es/networkmanager/4.2.0?topic=translation-private-address-ranges
 
 
 
